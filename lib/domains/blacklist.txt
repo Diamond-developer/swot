@@ -111,11 +111,3 @@ student.napavalley.edu
 mycom.marin.edu 
 alu.comillas.edu
 zknu.edu.cn
-go.sfcollege.edu
-kst.edu.sg
-campus.mccd.edu
-xzyz.edu.cn
-giant.cos.edu
-henu.edu.cn
-stu.zuel.edu.cn
-uotago.ac.nz
